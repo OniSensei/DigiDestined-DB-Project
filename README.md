@@ -1,6 +1,7 @@
 [![Commmits][lastcommit-shield]][lastcommit-url]
 [![Stars][stars-shield]][stars-url]
 [![Forks][forks-shield]][forks-url]
+[![Pulls][pulls-shield]][pulls-url]
 
 
 <!-- PROJECT LOGO -->
