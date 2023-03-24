@@ -101,18 +101,19 @@ Royal Claw = Increased SP cost to 45 from 30
 Seed Blast = Increased SP cost to 10 from 5
 Seventh Lightning = Decreased SP cost to 85 from 88, decreased Power to 75 from 76, fixed minor typo
 Shadow Feather Barrage = Increased SP cost to 45 from 35, added in Power to text
-Sharp Edge = Decreased SP cost to 40 from 50 decreased Power to 55 from 60
+Sharp Edge = Decreased SP cost to 40 from 50, decreased Power to 55 from 60
 Silent Bullet Awake = Increased Power to 35 from 30
 Sonic Slash Rain = Increased SP cost to 55 from 43
 Spider Shooter = Increased SP cost to 20 from 15
-Strike of the Seven Stars = Decreased Power to 35 from 70 fixed typo that incorrectly stated Power was 15
+Strike of the Seven Stars = Decreased Power to 35 from 70, fixed typo that incorrectly stated Power was 15
 Strike Strike Strike Mince = Increased SP cost to 25 from 18
-Summon Chaser = Decreased Power to 90 from 95
+Summon Chaser = Decreased Power to 85 from 95
 Symphony No 3 Cannon = Decreased SP cost to 30 from 35
-Tai Chi Revolution = Increased SP cost to 40 from 65 fixed typo
-The King of Fists = Decreased Power to 35 from 55 increased SP cost to 25 from 15
-Thousand Fists = Increased SP cost to 30 from 25 increased Power to 25 from 20
+Tai Chi Revolution = Increased SP cost to 40 from 65, fixed typo
+The King of Fists = Increased SP cost to 20 from 15, Decreased Power to 40 from 55
+Thousand Fists = Increased SP cost to 30 from 25
 Thunder Cloud = Increased SP cost to 15 from 10
+Thunder Cloud II = Increased SP cost to 35 from 10
 Thunder Hammer = Increased Power to 50 from 45
 TRICK or TREAT Wallace = Decreased SP cost to 35 from 37
 Trident Revolver = Increased SP cost to 25 from 15
@@ -129,3 +130,14 @@ Vine Smack III = Increased SP cost to 30 from 25
 White Murder = Decreased SP cost to 20 from 25 Increased Power to 30 from 25
 Will-O'-Wisp Slash = Increased SP cost to 45 from 20
 Wind Cutter Sword = Increased SP cost to 25 from 15
+
+
+
+  ____   _         _                          
+ |  _ \ (_)  __ _ (_) _ __ ___    ___   _ __  
+ | | | || | / _` || || '_ ` _ \  / _ \ | '_ \ 
+ | |_| || || (_| || || | | | | || (_) || | | |
+ |____/ |_| \__, ||_||_| |_| |_| \___/ |_| |_|
+            |___/                             
+
+MetalEtemon = Added KingEtemon digivolution
