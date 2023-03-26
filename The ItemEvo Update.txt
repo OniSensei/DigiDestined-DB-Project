@@ -89,10 +89,8 @@ Grace Cross Freezer = Reduced SP cost to 35 from 40.
 Haunted Hair = Fixed typo to reflect Power 65, move has not changed.
 M16 Assassin = Fixed skill, 1-4 physical attacks 10 neutral damage, 15 SP
 Seventh Lighting = Fixed typo to reflect Power 75, move has not changed.
-Li
 
 Fixed several moves that had/displayed the incorrect Attribute.
-
 
 [NEW] Arrow of Whispered = Exclusive to ApollomonWhispered, added to DB (50 Dark Magic attack to one foe, hits 3-8 times to random foes, 35 SP)
 [NEW] Chrono Paradox = Exclusive to ZeedMilleniummon, added to DB (1 Neutral Magic attack to random foes, 2 hits, Strong-Pen, 60 SP)
