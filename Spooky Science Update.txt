@@ -143,7 +143,7 @@ Zhuqiaomon = Removed Heavy Strike III, Added Burst Flame III, Meteor Fall III, F
 
 
 [NEW] Acid Injection = 1-3 physical attacks, 60 Plant damage to one foe. 25% chance to poison foe.
-[NEW] All Delete
+[NEW] All Delete = 2 DEF-penetrating medium Light attack on all foes.
 [NEW] Black Death = Physical attack, 125 Dark damage to one foe. 35% chance of poisoning target.
 [NEW] Buck Rush = Physical attack, 95 Neutral damage to one foe. 30% chance of increasing SPD by 10%.
 [NEW] Burning Breath = Magic attack, 110 Fire damage to one foe. 25% chance to Panic target.
