@@ -84,6 +84,7 @@ YukiWarGreymonX = Attribute changed from Vaccine to Data
 
 AegioChusmon = Added Heavy Strike II
 Ballistamon = Added Comet Hammer II
+BlitzGreymon = Removed Dark Terra Force, Black Tornado, Added Heavy Strike II, Wolkenapalm II, Changed Mach Rush II to Mach Rush III
 CrysPaledramon = Added Frozen Claw, Hydro Water III, Attack Charge Field
 DarkDigitamamon = Added Nightmare Syndrome, Attack Charge
 DarkKnightmon = Added Destruction Cannon III, Twin Spear, Attack Charge
