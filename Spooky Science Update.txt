@@ -55,6 +55,7 @@ DemiMeramon = Now digivolves into FiraGabumon!
 Dianamon = Increased BaseHP to 600 from 400
 Garurumon = Increased BaseHP to 500 from 450
 GulusGammamon = Now digivolves into Regulusmon!
+Huanglongmon = Can now be digivolved into by combining Azulongmon, Baihumon, Xuanwumon and Zhuqiaomon!
 Lamortmon = Now digivolves into Diarbbitmon!
 Lilithmon = Increased BaseHP to 600 from 550
 Lotusmon = Increased BaseHP to 600 from 550
