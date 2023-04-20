@@ -1,0 +1,193 @@
+  ____   _         _                          
+ |  _ \ (_)  __ _ (_) _ __ ___    ___   _ __  
+ | | | || | / _` || || '_ ` _ \  / _ \ | '_ \ 
+ | |_| || || (_| || || | | | | || (_) || | | |
+ |____/ |_| \__, ||_||_| |_| |_| \___/ |_| |_|
+            |___/                             
+
+[NEW] Amphimon
+[NEW] Arcturusmon
+[NEW] Armamon
+[NEW] BarbamonX
+[NEW] ChaosGallantmonCore
+[NEW] Cotsucomon
+[NEW] DiaboromonX
+[NEW] Diarbbitmon
+[NEW] Espimon
+[NEW] FiraGabumon = Submitted by Kara
+[NEW] FiraGarurumon = Submitted by Kara
+[NEW] FiraMetalGarurumon = Submitted by Kara
+[NEW] FiraWereGarurumon = Submitted by Kara
+[NEW] GrowlmonX
+[NEW] GuilmonX
+[NEW] HoverEspimon
+[NEW] Kakkinmon
+[NEW] Manticoremon
+[NEW] OphanimonCore
+[NEW] Proximamon
+[NEW] PsycheGarurumon = Submitted by Kara
+[NEW] PsyMetalGarurumon = Submitted by Kara
+[NEW] PsyMetalGarurumonX = Submitted by Kara
+[NEW] PsyWereGarurumon = Submitted by Kara
+[NEW] Regulusmon
+[NEW] Shadramon
+[NEW] Shoutmon X2
+[NEW] Shoutmon X3
+[NEW] Shoutmon X4
+[NEW] Shoutmon X4S
+[NEW] Shoutmon X5
+[NEW] ShoutmonDC
+[NEW] ShoutmonJS
+[NEW] ShoutmonSS
+[NEW] ShoutmonX7SM
+[NEW] Siriusmon
+[NEW] ZeedGarurumon
+
+
+Baluchimon = Now digivolves into Manticoremon!
+BioLotusmon = Increased BaseHP to 600 from 550
+BlackGarurumon = Increase BaseHP to 500 from 450
+BlackMetalGarurumon = Increased BaseHP to 900 from 700
+CanoWeissmon = Now digivolves into Siriusmon! 
+Chaosmon = Increased BaseHP to 800 from 500
+ChaosmonVA = Increased BaseHP to 850 from 350
+DemiMeramon = Now digivolves into FiraGabumon!
+Dianamon = Increased BaseHP to 600 from 400
+Garurumon = Increased BaseHP to 500 from 450
+GulusGammamon = Now digivolves into Regulusmon!
+Huanglongmon = Can now be digivolved into by combining Azulongmon, Baihumon, Xuanwumon and Zhuqiaomon!
+Lamortmon = Now digivolves into Diarbbitmon!
+Lilithmon = Increased BaseHP to 600 from 550
+Lotusmon = Increased BaseHP to 600 from 550
+MachGaogamon = Now digivolves into ZeedGarurumon!
+MetalGarurumon = Increased BaseHP to 850 from 700
+MetalGreymon = Now digivolves into MetalGreymonAM!
+MetalGreymonAM = Replaced CresGarurumon evolution with Machinedramon
+Millenniummon = Increased BaseHP to 800 from 600
+Ophanimon = Increased BaseHP to 600 from 450
+OrangeGrowlmon = Now digivolves into OrangeWarGrowlmon!
+Piedmon = Increased BaseHP to 600 from 500
+PlatinumSukamon = Increased BaseHP to 200 from 10
+Reppamon = Now digivolves into Manticoremon!
+Shoutmon = Can now Jogress with Ballistamon, Dorulumon, Starmon, Spadamon and Sparrowmon!
+ShoutmonDX = Reduced BaseAtk to 160 from 180
+Silphymon = Increased BaseHP to 700 from 600
+Thetismon = Now digivovles into Amphimon!
+TiaLudomon = Now digivolves into Manticoremon!
+UltimateBrachiomon = Reduced Speed from 86 to 70
+WarGrowlmon = Now digivolves into Megidramon!
+Wormmon = Now digivolves into Shadramon!
+YukiGreymon = Attribute changed from Vaccine to Data
+YukiMetalGreymon = Attribute changed from Vaccine to Data
+YukiWarGreymon = Attribute changed from Vaccine to Data
+YukiWarGreymonX = Attribute changed from Vaccine to Data
+
+
+AegioChusmon = Added Heavy Strike II
+Ballistamon = Added Comet Hammer II
+BlitzGreymon = Removed Dark Terra Force, Black Tornado, Added Heavy Strike II, Wolkenapalm II, Changed Mach Rush II to Mach Rush III
+CanoWeissmon = Added Awesome Quake II
+CrysPaledramon = Added Frozen Claw, Hydro Water III, Attack Charge Field
+DarkDigitamamon = Added Nightmare Syndrome, Attack Charge
+DarkKnightmon = Added Destruction Cannon III, Twin Spear, Attack Charge
+Deathmon = Added Destruction Cannon III, Dusk Shock III
+DeathmonBlack = Added Heavy Strike III, Attack Charge Field
+Deramon = Removed Ice Archery II, Added Crescent Leaf II, Nuts Gun, Rune Forest III, Gaia Element III
+Dorulumon = Added Comet Hammer II
+ElDoradimon = Added Grand Rock III, Guard Charge
+Frozomon = Added Nanomachine Break III, Heavy Strike II, Mach Rush III
+Garbagemon =  Added Poop Toss, Attack Break
+Giromon = Added Heavy Strike II, Giro Chainsaw, Tiny Bomb
+Gogamamon = Added Attack Charge, Awesome Quake III
+Hexeblaumon = Added Arctic Blizzard, Heavy Strike III
+Justimon = Added Justice Bullet,Attack Charge
+JustimonAA = Added Thunder Fall III,Attack Charge
+JustimonCA = Added Wind Claw III,Critical Charge
+Karatenmon = Added Attack Charge, Feather Slash, Destruction Cannon III
+Kazuchimon = Added Thunder Fall III,Attack Charge
+Knightmon = Added Berserk Sword
+Makuramon = Added Monkey Ball, Holy Light II, Saint Knuckle III
+MarineDevimon = Added Ocean Wave III, Guard Break Field, Ice Archery III
+Mephistomon = Added Nightmare III, Black Death Cloud, Hell Crusher III
+Metallicdramon = Added Gale Storm III, Thunder Laser
+MetalPiranimon = Added Hydro Water III, Heavy Strike III
+Mistymon = Added Holy Light III,Support End,Mental Charge Field
+Mitamamon = Added X-Heal, Gale Storm III
+OmegamonX = Added All Delete
+Phelesmon = Added Nightmare II, Night Raid, Hell Crusher III
+Pistmon = Added Thunder Fall III,Hyper Strike II,Speed Charge
+PrinceMamemon = Added Acid Rain, Heavy Strike III
+RaijiLudomon = Added Thunder Fall III, Speed Charge, Energy Bomb
+Raijinmon = Added Nanomachine Break, Speed Charge
+Rasielmon = Added Saint Knuckle III,Holy Light III
+Reapermon = Added Meteor Fall III, Destruction Cannon III
+Regalecusmon = Added Ocean Wave III, Volt Tackle
+Salamon = Removed Light Tackle
+Sandiramon = Added Shining Laser II, Venom Infusion, Holy Light III
+Shakamon = Added Light of the Spider's Thread, Final Aura
+Shroudmon =  Added Nanomachine Break III, Wolkenapalm III
+Tankdramon = Added Wolkenapalm II, Cannonball, Meteor Fall III
+Tekkamon = Added Nanomachine Break III, Ripping Net, Thunder Fall II
+Toropiamon = Added Venom Trap, Rune Forest II, Crescent Leaf III
+ToyAgumon = Removed Burst Flame I
+UltimateBrachiomon = Added Mach Rush III,Comet Hammer III
+Veemon = Removed Middle Tackle
+YaegerDorulumon = Added Awesome Quake III
+Zhuqiaomon = Removed Heavy Strike III, Added Burst Flame III, Meteor Fall III, Flame Inferno
+
+
+
+  __  __                     
+ |  \/  |                    
+ | \  / | _____   _____  ___ 
+ | |\/| |/ _ \ \ / / _ \/ __|
+ | |  | | (_) \ V /  __/\__ \
+ |_|  |_|\___/ \_/ \___||___/
+
+
+[NEW] Acid Injection = 1-3 physical attacks, 60 Plant damage to one foe. 25% chance to poison foe.
+[NEW] All Delete = 3 DEF-penetrating medium Light attack on all foes.
+[NEW] Black Death = Physical attack, 125 Dark damage to one foe. 35% chance of poisoning target.
+[NEW] Buck Rush = Physical attack, 95 Neutral damage to one foe. 30% chance of increasing SPD by 10%.
+[NEW] Burning Breath = Magic attack, 110 Fire damage to one foe. 25% chance to Panic target.
+[NEW] Burning Star Crusher = Physical attack, 135 Fire damage to one foe
+[NEW] Colourful Blaster = Magic attack, 65 Fire damage to one foe. 20% chance to confuse.
+[NEW] Dark Confession = Magic attack, 150 Dark damage to one foes. 50% chance of poisoning target.
+[NEW] Extinction Cloud = Magic attack, 195 Dark damage to all foes. 10% chance of instantly killing.
+[NEW] Fira Tomahawk = Physical attack, 110 Fire damage to one foe. Always hits. 15% chance to burn the foe.
+[NEW] Fox Magma = Magic attack, 85 Fire damage to one foe. 10% chance of increasing STR by 10%.
+[NEW] Frozen Crystral = 1-4 physical attacks, 50 Water damage to one foe.
+[NEW] Full Metal Breath = 1-5 physical attacks, 55 Neutral damage to all foes.
+[NEW] Giro Chainsaw = Physical attack, 100 Neutral damage to one foe.
+[NEW] Horn Breaker DX = Physical attack, 80 Neutral damage to one foe.
+[NEW] Iphigenia Pierce = INT-penetrating medium Dark attack on one foe.
+[NEW] Kalypso Bite = Physical attack, 85 Neutral damage to one foe. 25% chance of stunning target
+[NEW] Light of Re-Creation = Physical attack, 155 Light damage to all foes. Absorbs 10% of the damage as HP.
+[NEW] Meteor Buster Attack = Physical attack, 130 Earth damage to all foes.
+[NEW] Meteor Impact = Physical attack, 125 Fire damage to one foe.
+[NEW] Mot Bomb = Physical attack, 65 Electric damage to one foe
+[NEW] Photon Blaster = 1-5 Magic attacks, 60 Light damage to one foe.
+[NEW] Psyche Tomahawk = Magic attack, 100 Neutral damage to all foes. Always hits. 20% chance to poison foes.
+[NEW] Psychic Claw = Magic attack, 115 Neutral damage to one foe. 20% chance to confuse.
+[NEW] Quasar Break = Physical attack, 200 Light damage to one foe.
+[NEW] Rainbow Hand = Magic attack, 75 Light damage to one foe. 40% chance to put target to sleep.
+[NEW] Red Blaster = Magic attack, 65 Fire damage to one foe. 10% chance of reducing target's SPD by 10%.
+[NEW] Seven Victorize Maximum = 7 magic attacks, 65 Light damage to random foes.
+[NEW] Stamper Missile = 2-4 physical attacks, 55 Neutral damage to one foe. 90% Accuracy.
+[NEW] Star Blade = 2 physical attacks, 45 Fire damage to one foe.
+[NEW] Sword Masquerade = Physical attack, 140 Dark damage to all foes. 15% chance of confusing.
+[NEW] Thunder Break = Physical attack, 135 Electric damage to one foe.
+[NEW] Truskmore Advance = Physical attack, 120 Neutral damage to one foe. Tends to critical more often.
+[NEW] Twin Spear = 2 physical attacks, 65 Neutral damage to one foe.
+[NEW] V for Victory = Magic attack, 70 Fire damage to all foes.
+[NEW] Varooma-Boomerang = Physical attack, 65 Neutral damage to all foes.
+[NEW] Victory Star = Physical attack, 105 Fire damage to one foe. Tends to critical more often.
+[NEW] Volcano Napalm = 2 Magic attacks, 110 Fire damage to one foe.
+[NEW] Wolf Blitz = 1-3 physical attacks, 50 Fire damage to one foe.
+[NEW] Xros Burning Rocker = Physical attack, 140 Fire damage to one foe.
+[NEW] Zeed Cannon = Magic attack, 130 Electric damage to one foe.
+
+
+Body Blow = Increased Power to 20 from 15
+Golden Ripper = Corrected Power typo, move has not changed.
+Dragon Impulse = Reduced Recoil % to 25 from 50. Increased SPCost to 20 from 15.
