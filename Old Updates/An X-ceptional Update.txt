@@ -1,0 +1,90 @@
+  ____   _         _                          
+ |  _ \ (_)  __ _ (_) _ __ ___    ___   _ __  
+ | | | || | / _` || || '_ ` _ \  / _ \ | '_ \ 
+ | |_| || || (_| || || | | | | || (_) || | | |
+ |____/ |_| \__, ||_||_| |_| |_| \___/ |_| |_|
+            |___/                             
+
+[NEW] MetalGreymonX = Added to DB
+[NEW] WereGarurumonX = Added to DB
+
+Antylamon & AntylamonDeva = Corrected Attribute mismatch
+Digitamamon = Now also digivolves into Lampmon!
+Hawkmon = Now digivolves into Rinkmon with the Digi-Egg of Reliability!
+Patamon = Now digivolves into Manbomon with the Digi-Egg of Light! Now digivolves into Mantaraymon with the Digi-Egg of Knowledge!
+Swanmon = Fixed an issue where Swanmon was not requiring the Digi-Egg of Love
+Veemon = Now digivolves into GoldVeedramon with the Digi-Egg of Destiny!
+Wormmon = Now digivolves into Bullmon with the Digi-Egg of Hope! Now digivolves into Pucchiemon with the Digi-Egg of Kindness! Now digivolves into GreenPucchiemon with the Digi-Egg of Kindness! Now digivolves into Searchmon with the Digi-Egg of Kindness!
+
+
+Achillesmon = Added Heavy Strike III, Speed Charge, Saint Knuckle III
+AllomonX = Added Mach Rush III
+Azulongmon = Added Thunder Cloud II, Sonic Void III
+Babamon = Added Hell Crusher III
+Bacchusmon = Added Nightmare Syndrome, Dusk Shock III
+BanchoGolemon = Added Mach Jab, Heavy Strike III
+BanchoStingmon = Added Nanomachine Break III
+BeelstarmonX = Added Hurricane Screw Shot, Critical Charge
+BetamonX = Added Ripping Net and Electric Stun Blast
+Bloomlordmon = Added Venom Trap, Attack Charge
+Callismon = Added Awesome Quake III, Double Claw
+Cannondramon = Added Electron Cannon, Critical Charge, Awesome Quake III
+CherubimonVirusX = Added Hell Crusher III, Mental Break Field
+CherubimonX = Added Mental Charge Field
+ChronomonDM = Added Wind Claw III, Dusk Shock III, Meteor Fall III, Speed Charge
+CresGarurumon = Added Wolf Claw, Acceleration Boost
+Dinorexmon = Added Flame Breath, Reckless Tackle III, Comet Hammer III, Attack Charge
+DinoTigermon = Added Beast Fang, Comet Hammer III
+DracomonX = Added Meteor Fall III
+Eosmon = Added Nanomachine Break II, Heaven's Thunder II
+EosmonMega = Added Nanomachine Break III,Heaven's Thunder III,Thunder Cloud II
+EosmonUltimate = Added Nanomachine Break II,Heaven's Thunder III,Thunder Cloud
+FrosVelgrmon = Added Hydro Water III, Fleeting Blizzard III
+GanimonX = Added Ocean Wave III, Scissor Claw
+GomamonX = Removed Dotting Whirlpool I
+HolyDigitamamon = Added Holy Light III, Support End
+Hydramon = Added Scatterblaster, Sludge
+Jijimon = Added Holy Light III, X-Heal
+KingEtemon = Added Banana Slip,Awesome Quake III, Monkey Wrench
+KoromonX = Changed Wolkenapalm III to Wolkenapalm II
+Lampmon = Replaced Destruction Cannon III with Nightmare III, Added Hell Crusher III, Fantasy Mist
+LopmonX = Removed X-Heal and Hydro Water III
+MagnamonX = Replaced Comet Hammer III with Saint Knuckle III, replaced Awesome Quake III with Shining Laser III
+MetalGarurumonX = Replaced Dotting Whirlpool I with Dotting Whirlpool III, Added Speed Charge Field
+NerfertimonX = Added Holy Light III and Anti-Poison
+Ogudomon = Added Destruction Cannon III, Destruction, Acceleration Boost, Critical Charge
+OphanimonFMX = Added Acceleration Boost
+OphanimonX = Added Darkness Wave, Nightmare III, Mental Break Field
+Ornismon = Added Gale Storm III, Blinding Ray
+PanjyamonX = Added Attack Charge
+PlesiomonX = Added Water Breath
+Plutomon = Added Destruction Cannon III, Attack Charge, Chaos Rights
+Rafflesimon = Added Gaia Element III, Immobilizing Sweetness, Rune Forest III
+Raidenmon = Added Cross-Counter, Mega Meteor Fall
+RosemonBM = Added Thorn Whip, Gaia Element III, Final Heal, Mental Break Field
+RosemonX = Added Crescent Leaf III
+SakuyamonMM = Added Amethyst Madala, Holy Light III, X-Aura
+ScorpiomonX = Added Dusk Shock II
+SeasarmonX = Added Attack Break Field
+ShadowSeraphimon = Added Strike of the Seven Stars
+SkullKnightmon = Added Heavy Strike III, Critical Charge
+Spinomon = Added Reckless Tackle III, Wolkenapalm III, Wind Claw III
+Suijinmon = Added Infinity Cannon, Acceleration Boost, Heavy Strike III
+Susanoomon = Replaced Celestial Blade with Slash of Heavenly Wings
+TerriermonX = Removed Speed Charge and Power Energy III, Changed Sonic Void II to Sonic Void III
+TokomonX = Changed Heavy Strike III to Heavy Strike II, Mach Rush III to Mach Rush II
+Tuskmon = Added Smash Horn, Attack Charge, Reckless Tackle II
+
+  __  __                     
+ |  \/  |                    
+ | \  / | _____   _____  ___ 
+ | |\/| |/ _ \ \ / / _ \/ __|
+ | |  | | (_) \ V /  __/\__ \
+ |_|  |_|\___/ \_/ \___||___/
+                             
+
+[NEW] Headbutt = Added to DB (Physical 25 Neutral to one foe, 5 SP)
+[NEW] Slash = Added to DB (Physical 25 Neutral to one foe, 5 SP)
+
+Kyukyoku Sentotsuken Gran Rozerio = Renamed to Ultimate Thrusting Sword Gran Rozerio
+
