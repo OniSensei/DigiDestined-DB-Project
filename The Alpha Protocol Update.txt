@@ -59,6 +59,7 @@ MegaSeadramon = Reduced BaseINT to 75 from 95, Increased BaseATK to 67 from 47
 Mercurymon = Increased BaseINT to 45 from 35
 MetalKabuterimon = Decreased BaseSPD to 60 from 70, Increased BaseDEF to 70 from 60
 MetalSeadramon = Reduced BaseINT to 100 from 105, Reduced BaseDEF to 85 from 90, Increased BaseATK to 70 from 60
+Monodramon = Added Strikedramon digivolution
 Numemon = Added BlackKingNumemon digivolution
 Ogudomon = Can now be digivolved into by combining BelphemonRM, Lilithmon, Beelzemon, LucemonFM and Barbamon! Increased BaseHP to 1600 from 1500, Increased BaseDEF to 110 from 100, Increased BaseINT to 140 from 130
 PetitMamonPal = Added Bakemon digivolution
