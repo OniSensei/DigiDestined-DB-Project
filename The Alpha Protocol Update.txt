@@ -1,0 +1,305 @@
+  ____   _         _                          
+ |  _ \ (_)  __ _ (_) _ __ ___    ___   _ __  
+ | | | || | / _` || || '_ ` _ \  / _ \ | '_ \ 
+ | |_| || || (_| || || | | | | || (_) || | | |
+ |____/ |_| \__, ||_||_| |_| |_| \___/ |_| |_|
+            |___/                             
+ 
+[NEW] BlackKingNumemon
+[NEW] ChaosAgumon
+[NEW] ChaosGreymon
+[NEW] ChaosMetalGreymon
+[NEW] ChaosWarGreymon
+[NEW] ChaosWarGreymonX
+[NEW] GoldNumemon
+[NEW] HerculesKabuterimonX
+[NEW] JupitermonWM
+[NEW] LucemonX
+[NEW] MegidramonX
+[NEW] MervamonXROS
+[NEW] Murmukusmon
+[NEW] PileVolcamon
+[NEW] PlatinumNumemon
+[NEW] ShoutmonX5S
+[NEW] Tactimon
+
+Aldamon = Decreased BaseDEF to 85 from 90, Decreased BaseSPD to 100 from 105
+Baalmon = Added Tactimon digivolution
+Bakomon = Added Sukamon digivolution
+BeoWolfmon = Decreased BaseINT to 95 from 100, Increased BaseDEF to 75 from 70
+BishopChessmonBlack = Decreased BaseATK to 55 from 70, Increased BaseINT to 70 from 50
+BishopChessmonWhite = Decreased BaseATK to 55 from 70, Increased BaseINT to 70 from 50
+BlackGuilmon = Added BlackGreymon digivolution
+Breakdramon = Added Examon digivolution
+Cutemon = Added Gatomon digivolution
+Devimon = Added SkullSatamon digivolution
+Duskmon = Increase BaseINT to 45 from 30
+Ekakimon = Added Sukamon digivolution
+Espimon = Added Guadromon digivolution
+Etemon = Added PlatinumNumemon digivolution
+Flamemon = Added Agunimon (with Human Spirit of Fire) and Meramon digivolution
+Garudamon = Added Varodurumon digivolution
+Gumdramon = Added Numemon and Veedramon digivolution
+Hagurumon = Added GoldNumemon digivolution
+Hawkmon = Added Airdramon digivolution
+HippoGryphonmon = Added Murmukusmon digivolution
+Hyokomon = Added Peckmon digivolution
+Impmon = Added Devimon digivolution
+Jupitermon = Added JupitermonWM digivolution
+Kapurimon = Added Hagurumon digivolution
+Karatenmon = Added Tactimon digivolution
+Kimeramon = Now also requires BlackMetalGreymon, Angemon and Devimon
+KoDokugumonRookie = Added Roachmon digivolution
+Kudamon = Added GoldNumemon digivolution
+Ludomon = Added Sealsdramon digivolution
+MadLeomon = Added Baalmon and Astamon digivolution
+MasterTyrannomon = Removed Examon, Added Gaiomon & Volcanicdramon digivolution
+Matadormon = Added Tactimon digivoltuion
+MegaSeadramon = Reduced BaseINT to 75 from 95, Increased BaseATK to 67 from 47
+Mercurymon = Increased BaseINT to 45 from 35
+MetalKabuterimon = Decreased BaseSPD to 60 from 70, Increased BaseDEF to 70 from 60
+MetalSeadramon = Reduced BaseINT to 100 from 105, Reduced BaseDEF to 85 from 90, Increased BaseATK to 70 from 60
+Monodramon = Added Strikedramon digivolution
+Numemon = Added BlackKingNumemon digivolution
+Ogudomon = Can now be digivolved into by combining BelphemonRM, Lilithmon, Beelzemon, LucemonFM and Barbamon! Increased BaseHP to 1600 from 1500, Increased BaseDEF to 110 from 100, Increased BaseINT to 140 from 130
+PetitMamonPal = Added Bakemon digivolution
+PetitMamonPul = Added Bakemon digivolution
+Raremon = Added BlackKingNumemon digivolution
+Rhihimon = Increased BaseSPD to 105 from 95
+Roachmon = Added Garbagemon digivolution
+Sakkakumon = Increased BaseDEF to 70 from 50, Increased BaseINT to 90 from 40, Decreased BaseSPD to 60 from 70, Decreased BaseATK to 50 from 90
+ShellNumemon = Added BlackKingNumemon digivolution
+SkullSatamon = Added Beelzemon, Murmukusmon digivolution
+Slayerdramon = Added Examon digivolution
+Sparrowmon = Added Mailbirdramon digivolution
+SuperStarmon = Added PlatinumNumemon digivolution
+Velgemon = Increased BaseINT to 65 from 60
+Zenimon = Added Golemon digivolution
+Zubamon = Added GoldNumemon digivolution
+
+
+Aegiomon = Added Attract Echo, Saint Knuckle II
+Ajartamon = Added Assault Hatchet
+Arachmenon = Replaced Hell Crusher I with Predation Spider
+Arbormon = Replaced Comet Hammer III with Crescent Leaf II | Downgraded Heavy Strike III to Heavy Strike II | Added Blockade Seed,Crescent Leaf III
+Archelomon = Added Ocean Streamer, Ocean Wave III
+BanchoLeomon = Added Flash Punch
+Beetlemon = Added Lightning Blitz, Nanomachine Break III
+Betamon = Replaced Ice Archery I with Fin Cutter
+BetamonX = Replaced Electric Shock with Electric Shock 185V, Ice Archery III with Beta Slugger
+BetelGammamon = Added Sol Blow
+Bibimon = Removed Body Blow
+Bibimon = Replaced Bite with Minimal Flash
+BishopChessmonBlack = Added Bishop Laser,Nightmare III
+BishopChessmonWhite = Added Bishop Laser,Holy Light III
+BlackExVeemon = Added V Tackle
+BlackMetalGreymon = Added Giga Destroyer
+Blossomon = Removed Rune Forest I, Added Spiral Flower
+Boarmon = Added Nose Blaster, Reckless Tackle II
+Budmon = Removed Body Blow
+Bukamon = Replaced Elastic Bubbles with Air Bubbles
+Bullmon = Added Matador Rush, Attack Charge
+Burgermon = Replaced Heavy Strike I with Spicy Onion
+Centaurmon = Added Muscle Charge
+Chamelemon = Added  Tongue Lashing, Agility Charge
+Chaosdramon = Replaced Infinity Cannon with Hyper Infinity Cannon | Added Destroyed Hook
+Cherrymon = Replaced Physical Drain with Illusion Mist
+Cherubimon = Added Holy Breath
+ChibiKamemon = Removed Heavy Strike I
+Craniamon = Added Breath of the Gods
+Damemon = Added Buzzing Fist, Mach Rush II
+DarkTyrannomon = Replaced Power Fang with Fire Blast
+DeadlyAxemon = Added Air Slicer, Speed Charge
+Depthmon = Added Marine Knives, Heavy Strike III
+Deputymon = Added Justice Bullet, Attack Charge
+Dianamon = Added 01 Crusher
+Dogmon = Added Distem Howling, Comet Hammer II
+Dracomon = Replaced Wolkenapalm I with Baby Breath
+Duskmon = Added Ghost Evening,Destruction Cannon III
+Evilmon = Added Nightmare Syndrome, Nightmare II
+Exermon = Added Insec Mind, Thunder Fall II
+FanBeemon = Replaced Venom Trap with Gear Stinger
+Fangmon = Added Blast Coffin
+Flymon = Added Heavy Strike II, Deadly Sting
+GallantmonCM = Added Saint Knuckle III, Final Heal
+Ganemon = Added Heavy Strike II, Mental Charge Field
+Gesomon = Added Coral Crusher, Hydro Water II
+GigaSeadramon = Added Nanomech Heal
+Gigasmon = Added Tectonic Slam,Comet Hammer III
+Gorillamon = Added Energy Cannon, Fury Punches II
+GraceNovamon = Removed Blade of the Dragon King, Soul Digitalization | Added Saint Knuckle III, Calydon Arcus, Eclipse Finger
+GranDracmon = Replaced Ice Archery III with Eye of the Gorgon
+GreenPucchiemon = Added Heartner Beam, Shining Laser III
+Grumblemon = Added Seismic Sledge, Awesome Quake III
+GulusGammamon = Added Dark Palace, Nightmare II
+Harpymon = Added Wind Seeker, Gale Storm III
+Hyogamon = Added Ice Club, Attack Charge
+JesmonX = Added Holy Conqueror Sword
+Jijimon = Added Holy Breath
+JumboGamemon = Added Gigaton Hydro
+Jupitermon = Added Nanomachine Break III, Mabolt, Wide Plasment
+Justimon = Replaced Justice Bullet with Comet Hammer III
+KausGammamon = Added Urda Impulse
+KingChessmon = Added Speed Charge, Saint Knuckle III, Checkmate, Holy Light III
+KnightChessmonBlack = Added Knight Lancer, Mach Rush II
+KnightChessmonWhite = Added Knight Lancer,Mach Rush II
+KoDokugumon = Replaced Smile Fang with Poison Nail
+Komondomon = Added Howling Wiper, Wind Claw II
+Koromon = Removed Body Blow
+Kunemon = Removed Venom Trap, Added Electric Thread
+LeviamonX = Added Seventh Lightning
+Loweemon = Downgraded Hell Crusher III to Hell Crusher II | Added Shadow Lance, Destruction Cannon II
+Luminamon = Added Lumina Flash
+Machmon = Added Full-Throttle Edge, Wolkenapalm II
+MadLeomon = Downgraded Destruction Cannon III to Destruction Cannon II | Added Beast-King Fallen Fist, Heavy Strike II
+Magnadramon = Added Holy Breath
+MagnaGarurumon = Added Starlight Velocity
+Maildramon = Added Iron Press, Holy Light III
+MarineAngemon = Added Ocean Love
+MarineDevimon = Replaced Ice Archery III with Dark Deluge
+MegaSeadramon = Replaced Idle Bubble with Aurora Freeze
+Mercurymon = Replaced Upgrade with Saint Knuckle III | Added Mirror Reflection, Offset Reflector
+MetalKabuterimon = Added Thunder Fall III, Bolo Thunder
+MetalPhantomon = Added Soul Predator
+MetalSeadramon = Replaced Ocean Wave II with Ice Archery III, Heaven's Thunder III with Thunder Fall III
+Mikemon = Added Neko Claw, Fury Punches II
+Minidekachimon = Replaced Heavy Strike I with Minideka Flame
+MinidekachimonYellow = Replaced Heavy Strike I with Minideka Flame
+Minomon = Removed Body Blow
+Minotaurmon = Added Darkside Quake
+Moosemon = Added Horn Blade, Heavy Strike II
+Morphomon = Replaced Sticky Net with Rinrin Therapy
+Mushmon = Added Fungus Crusher, Removed Venom Trap
+Myotismon = Replaced Spirit Drain with Bloody Whip
+NeoDevimon = Added Nightmare III, Hell Crusher III
+NeoMyotismon = Added Nightmarish Mist
+Nyaromon = Replaced Elastic Bubbles with Fox Tail
+Octomon = Added Spurting Ink, Ice Archery II
+Omekamon = Added Paint Rocket, Mach Rush II
+Opossumon = Added Mad Ballon Bombs, Wind Claw III
+Orcamon = Added Vassallo Crash
+Pagumon = Removed Body Blow
+Peacockmon = Added Rainbow Shower, Holy Light III
+Plutomon = Added Power Energy III, Hell's Gate
+Pteramon = Added Missile Storm, Speed Charge
+Pucchiemon = Added Heartner Beam, Shining Laser III
+QueenChessmon = Added Attack Charge, Destruction Cannon III, Heart Breaker, Nightmare III
+Rinkmon = Added Quad Speed Stream, Speed Charge
+Roachmon = Added Garbage Dump, Comet Hammer II
+RookChessmonBlack = Downgraded Heavy Strike III to Heavy Strike II | Added Rook Gatling, Defense Charge
+RookChessmonWhite = Downgraded Heavy Strike III to Heavy Strike II | Added Rook Gatling, Defense Charge
+Ryudamon = Replaced Comet Hammer I with Katana Attack
+Sakkakumon = Replaced Upgrade with Mirror Reflection | Added Power Energy III, Rumble Blend
+SalamonX = Added Puppy Paw
+Sealsdramon = Added Death Behind, Speed Charge
+Searchmon = Added Support End,Nanomachine Break III
+Sheepmon = Added Wool Grenade,Wolkenapalm III
+SkullBaluchimon = Added Grave Bone
+Snimon = Added Twin Sickles
+Spinomon = Added Sonic Slash Rain
+Strikedramon = Added Fang Strike
+Sunarizamon = Replaced Rock Fist with Sand Blast
+Tanemon = Removed Body Blow
+Tobucatmon = Added Spinning Fight, Sonic Void II
+Togemogumon = Added Hail Machine Gun, Defense Charge
+Toropiamon = Replaced Venom Trap with Petal Carnage
+Troopmon = Added Dark March, Destruction Cannon II
+Tsunomon = Removed Body Blow
+Velgemon = Added Dark Vortex,Destruction Cannon III
+Wendimon = Added Cable Crusher, Heavy Strike II
+WezenGammamon = Added Albion
+Wisemon = Added Murmukusmon digivolution
+Yokomon = Replaced Adhesive Bubbloe blow with Soap Flower
+
+
+  __  __                     
+ |  \/  |                    
+ | \  / | _____   _____  ___ 
+ | |\/| |/ _ \ \ / / _ \/ __|
+ | |  | | (_) \ V /  __/\__ \
+ |_|  |_|\___/ \_/ \___||___/
+
+
+[NEW] Air Slicer = Physical attack, 110 Neutral damage to one foe. 20% chance of increasing SPD by 10%.
+[NEW] Albion = Physical attack, 110 Electric damage to one foe. Cannot move from recoil for one turn.
+[NEW] Attract Echo = Magic attack, 100 Neutral damage to all foes. 20% chance of inflicting Panic to all foes.
+[NEW] Beast-King Fallen Fist = Physical attack, 95 Dark damage to one foe.
+[NEW] Bishop Laser = Magic attack, 105 Light damage to one foe.
+[NEW] Blockade Seed = Physical attack, 90 Plant damage to one foe. 40% chance to Stun foe.
+[NEW] Bolo Thunder = Physical attack, 150 Electric damage to one foe.
+[NEW] Buzzing Fist = Physical attack, 30 Neutral damage to one foe. Stuns the target.
+[NEW] Cable Crusher = 2 physical attacks, 70 Neutral damage to one foe. 90% Accuracy.
+[NEW] Calydon Arcus = 8 physical attacks, 25 Light damage to one foe.
+[NEW] Chaos Force = Physical attack, 100 Dark damage to all foes. 25% chance of reducing foes ATK by 15%.
+[NEW] Checkmate = Physical attack, 155 Neutral damage to one foe. Receive damage equal to 20% of HP as recoil.
+[NEW] Coral Crusher = 1-4 physical attacks, 60 Water damage.
+[NEW] Cosmo Victory = Physical attack, 165 Fire damage to one foe.
+[NEW] Dark March = Physical attack, 100 Dark damage to one foe.
+[NEW] Dark Palace = Physical attack, 125 Dark damage to one foe.
+[NEW] Dark Vortex = Magic attack, 115 Dark damage to one foe. 20% chance of causing Panic.
+[NEW] Death Behind = Physical attack, 70 Neutral damage to one foe. Tends to critical more often.
+[NEW] Dios Thunder = Magic attack, 110 Light damage to all foes. 15% chance of instantly killing.
+[NEW] Distem Howling = Magic attack, 75 Neutral damage to one foe. 25% chance of causing Panic.
+[NEW] Eclipse Finger = DEF-penetrating extra strong Dark attack on one foe.
+[NEW] Energy Cannon = Physical attack, 125 Neutral damage to one foe.
+[NEW] Enlightenment Tachi = 1-5 physical attacks, 60 Neutral damage to one foe.
+[NEW] Full-Throttle Edge = Physical attack, 110 Fire damage to one foe. 20% chance of increasing SPD by 10%.
+[NEW] Garbage Dump = Physical attack, 80 Earth damage to all foes. 20% chance to reduce foes SPD by 10%.
+[NEW] Gehenna Flame = Magic attack, 105 Dark damage to all foes. 10% chance of instantly killing.
+[NEW] Ghost Evening = Magic attack, 100 Dark damage to one foe. 40% chance of putting target to Sleep.
+[NEW] Hail Machine Gun = 1-10 physical attacks, 15 Water damage to all foes.
+[NEW] Heart Breaker = DEF-penetrating strong Neutral attack on one foe.
+[NEW] Heartner Beam = Magic attack, 95 Light damage to one foe. 25% chance to cause Panic.
+[NEW] Hell Howling = Physical attack, 165 Fire damage to all foes.
+[NEW] Hell's Gate = Magic attack, 125 Dark damage to one foe. 10% chance of instantly killing.
+[NEW] Horn Blade = Physical attack, 85 Neutral damage to one foe. Tends to critical more often.
+[NEW] Howling Wiper = Physical attack, 95 Neutral damage to one foe.
+[NEW] Ice Club = Physical attack, 100 Water damage to one foe.
+[NEW] Insec Mind = Magic attack, 65 Neutral damage to all foes. 20% chance of causing Panic.
+[NEW] Iron Press = Physical attack, 125 Neutral damage to one foe. Receive damage equal to 10% of HP from recoil.
+[NEW] Keraunós Divide = Physical attack, 170 Light damage to one foe. 25% chance of paralyzing target.
+[NEW] Knight Lancer = Physical attack, 115 Neutral damage to one foe.
+[NEW] Lightning Blitz = Physical attack, 135 Electric damage to one foe.
+[NEW] Mabolt = Physical attack, 135 Electric damage to all foes.
+[NEW] Mad Balloon Bombs = Physical attack, 90 Fire damage to all foes.
+[NEW] Marine Knives = 1-3 physical attacks, 40 Water damage to one foe.
+[NEW] Matador Dash = Physical attack, 115 Neutral damage to one foe.
+[NEW] Missile Storm = Physical attack, 110 Fire damage to all foes.
+[NEW] Neko Claw = Physical attack, 100 Neutral damage to one foe.
+[NEW] Nose Blaster = Physical attack, 110 Fire damage to one foe.
+[NEW] Ocean Streamer = Magic attack, 105 Water damage to one foe.
+[NEW] Offset Reflector = INT-penetrating medium Neutral attack on one foe.
+[NEW] Paint Rocket = Physical attack, 100 Neutral damage to one foe.
+[NEW] Quad Speed Stream = 2-4 physical attacks, 55 Electric damage to one foe.
+[NEW] Rainbow Shower = Magic attack, 90 Light damage to all foes.
+[NEW] Rook Gatling = 1-4 Physical attacks, 45 Neutral damage to one foe.
+[NEW] Rumble Blend = Magic attack, 90 Neutral damage to all foes. Counterattack the enemy when you receive a physical or magic attack for two turns.
+[NEW] Seismic Sledge = Physical attack, 130 Earth damage to one foe. 90% Accuracy.
+[NEW] Seventh Divine Cruz = Magic attack, 125 Light damage to all foes. 10% chance of instantly killing.
+[NEW] Sexy the Cannon = Magic attack, 180 Dark damage to one foe.
+[NEW] Shadow Lance = Physical attack, 100 Dark damage to one foe. Tends to critical more often.
+[NEW] Sol Blow = Physical attack, 90 Fire damage to one foe. 95% Accuracy.
+[NEW] Space Chakram = Physical attack, 100 Light damage to all foes.
+[NEW] Spinning Fight = Physical attack, 90 Neutral damage to one foe.
+[NEW] Spurting Ink = Physical attack, 85 Water damage to one foe. 25% chance to inflict Poison to foe.
+[NEW] Tectonic Slam = Physical attack, 100 Earth damage to all foes. 20% chance of reducing foes SPD by 10%.
+[NEW] Tongue Lashing = 1-3 physical attacks, 50 Neutral damage to one foe.
+[NEW] Urda Impulse = Physical attack, 85 Wind damage to one foe. 15% chance to increase SPD by 10%.
+[NEW] Wide Plasment = Magic attack, 150 Electric damage to all foes.
+[NEW] Wild God's Thrust = DEF-penetrating medium Wind attack on one foe.
+[NEW] Wind Seeker = Magic attack, 115 Wind damage to one foe.
+[NEW] Wool Grenade = 2 physical attacks, 50 Fire damage to one foe.
+
+Several Description adjustments were made to adjust/fix typos.
+
+Arrow of Whispered = Increased Power to 55 from 50
+Berserker Cannon = Decreased SPCost to 55 from 65
+Chaos Rights = Increased Power to 155 from 70
+Crystal Drop = Changed from Physical to Magic, Increased Power to 155 from 70
+Deadly Sting = Increased SPCost to 30 from 15, Decreased Power to 70 from 80
+Extinction Cloud = Decreased Power to 145 from 160
+Iphigenia Pierce = Decreased SPCost to 35 from 50
+Justice Bullet = Decreased SPCost to 35 from 45, Increased Power to 130 from 50
+Quasar Break = Decreased SPCost to 60 from 65, Decreased Power to 190 from 200
+Termination Sword = Increased Power to 190 from 160
+Texture Blow = Changed Stun status to Dot status
