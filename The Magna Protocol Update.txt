@@ -5,22 +5,22 @@
  |____/ |_| \__, ||_||_| |_| |_| \___/ |_| |_|
             |___/                             
  
-[NEW] JustimonX
-[NEW] Fujinmon
-[NEW] MagnadramonX
-[NEW] MyotismonX
-[NEW] Fusamon
 [NEW] Bowmon
-[NEW] Loogamon
-[NEW] Loogarmon
-[NEW] WereGarurumonSM
-[NEW] Helloogarmon
+[NEW] Daemon
+[NEW] Destromon
 [NEW] Fenriloogamon
 [NEW] FenriloogamonTakemikazuchi
-[NEW] Destromon
-[NEW] Snatchmon
+[NEW] Fujinmon
+[NEW] Fusamon
 [NEW] Galacticmon
-[NEW] Daemon
+[NEW] Helloogarmon
+[NEW] JustimonX
+[NEW] Loogamon
+[NEW] Loogarmon
+[NEW] MagnadramonX
+[NEW] MyotismonX
+[NEW] Snatchmon
+[NEW] WereGarurumonSM
 
 
 
