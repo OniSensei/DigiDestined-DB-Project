@@ -1,0 +1,202 @@
+  ____   _         _                          
+ |  _ \ (_)  __ _ (_) _ __ ___    ___   _ __  
+ | | | || | / _` || || '_ ` _ \  / _ \ | '_ \ 
+ | |_| || || (_| || || | | | | || (_) || | | |
+ |____/ |_| \__, ||_||_| |_| |_| \___/ |_| |_|
+            |___/                             
+ 
+[NEW] JustimonX
+[NEW] Fujinmon
+[NEW] MagnadramonX
+[NEW] MyotismonX
+[NEW] Fusamon
+[NEW] Bowmon
+[NEW] Loogamon
+[NEW] Loogarmon
+[NEW] WereGarurumonSM
+[NEW] Helloogarmon
+[NEW] Fenriloogamon
+[NEW] FenriloogamonTakemikazuchi
+[NEW] Destromon
+[NEW] Snatchmon
+[NEW] Galacticmon
+[NEW] Daemon
+
+
+
+Airdramon = Type changed from Virus to Vaccine
+Angoramon = Attribute changed from Neutral to Wind
+Armadillomon = Can now digivolve into Sepikmon!
+Ballistamon = Can now digivolve into AlturBallistamon!
+Cannondramon = Increased Digivolve Cost to 18 from 12
+Chaosdramon = Increased Digivolve Cost to 18 from 16
+ChaosWarGreymon = Type changed from Virus to Vaccine
+ChaosWarGreymonX = Type changed from Virus to Vaccine
+Chuumon = Increased BaseHP to 300 from 260
+Creepymon = Name has been changed to DaemonM
+Cyberdramon = Can now digivolve into Fujinmon!
+Deathmon = Increased Digivolve Cost to 18 from 14
+DeathmonBlack = Increased Digivolve Cost to 18 from 14
+DemiDevimon = Increased BaseHP to 300 from 210
+Diarbbitmon = Attribute changed from Neutral to Wind
+DinoTigermon = Increased Digivolve Cost to 18 from 14
+DobermonX = Decreased BaseSPD to 140 from 1400
+Ebemon = Increased Digivolve Cost to 18 from 16
+Examon = Is now a Jogress Mega that requires both Slayerdramon and Breakdramon!
+Frogmon = Adjusted to require DigiEgg of Sincerity
+Garurumon = Can now digivolve into WereGarurumonSM!
+Gazimon = Increased BaseHP to 300 from 210
+GoldNumemon = Removed PlatinumNumemon Digivolution
+GroundLocomon = Changed Name to GranLocomon
+Hawkmon = Increased BaseHP to 300 from 250
+Impmon = Increased BaseHP to 300 from 140
+Jijimon = Increased Digivolve Cost to 18 from 15
+Justimon = Can now digivolve into Fujinmon, JustimonAA and JustimonCA!
+Kimeramon = No longer requires BlackMetalGreymon, Angemon and Devimon
+KingChessmon = Increased Digivolve Cost to 18 from 15
+Kudamon = Increased BaseHP to 300 from 200
+Lamortmon = Attribute changed from Neutral to Wind
+Lampmon = Increased Digivolve Cost to 18 from 12
+LucemonX = Decreased BaseHP to 1050 from 1100 | Decreased BaseSP to 110 from 120, Decreased BaseATK to 80 from 108, Decreased BaseSPD to 100 from 108
+Lunamon = Increased BaseHP to 300 from 260
+MetalTyrannomon = Can now digivolve into Macheindramon!
+MirageGaogamonBM = Increased Digivolve Cost to 22 from 20
+PlatinumNumemon = Increased Digivolve Cost to 18 from 12
+PrinceMamemon = Increased Digivolve Cost to 18 from 16
+QueenChessmon = Increased Digivolve Cost to 18 from 15
+RavemonBM = Increased Digivolve Cost to 22 from 20
+RosemonBM = Increased Digivolve Cost to 22 from 20
+SakuyamonMM = Increased Digivolve Cost to 18 from 16
+Salamon = Increased BaseHP to 300 from 150
+ShoutmonDX = Decreased BaseHP to 1350 from 1400 | Decreased BaseATK to 155 from 160 | Decreased BaseDEF to 129 from 146
+ShoutmonX7 = Increased BaseINT to 100 from 91 | Increased BaseDEF to 130 from 121 | Increased BaseSPD to 108 from 105 | Increased BaseATK to 164 from 160
+ShoutmonX7SM = Increase BaseINT to 115 from 103, Increased BaseHP to 1450 from 1400
+Shurimon = Attribute changed from Earth to Plant
+SymbareAngoramon = Attribute changed from Neutral to Wind
+Tentomon = Increased BaseHP to 300 from 260
+Terriermon = Increased BaseHP to 300 from 250
+Upamon = Removed Sepikmon digivolution | Can now digivolve into Gizamon!
+Vemmon = Can now digivolve into Destromon!
+Venusmon = Increased Digivolve Cost to 18 from 15
+WereGarurumon = Can now digivolve into WereGarurumonSM!
+Wormmon = Increased BaseHP to 300 from 270
+ZekeGreymon = Decreased BaseATK to 130 from 145
+
+Allomon = Replaced Mega Flame with Dino Burst | Upgraded Wolkenapalm II to Wolkenapalm III | Added Meteor Fall II
+Archelomon = Added Hydro Water II
+Bullmon = Added Mach Rush III
+Butterflymon = Downgraded Heavy Strike III to Heavy Strike II | Added Sweet Honey Straw, Gaia Element II
+Chamelemon = Added Comet Hammer III
+Depthmon = Added Hydro Water II
+Digmon = Replaced Pummel Whack with Gold Rush
+Espimon = Added Nanomachine Break I
+FiraGabumon = Added Wolkenapalm I
+FlaWizarmon = Downgraded Meteor Fall III to Meteor Fall II | Replaced Wolkenapalm III with Burst Flame III | Added Fire Cloud, Mental Charge
+Gargoylemon = Downgraded Heavy Strike III to Heavy Strike II | Added Statue Bomber
+Goatmon = Added Mystic Bell, Saint Knuckle III
+GreenPucchiemon = Added Saint Knuckle II
+Harpymon = Added Wind Claw II
+Justimon = Added Justice Burst
+JustimonAA = Added Thunderclap
+JustimonCA = Added Voltage Blade
+Kenkimon = Added Crazy Crane, Attack Charge
+Kongoumon = Replaced Razor Wind with Popper | Upgraded Shining Laser I to Shining Laser II, Upgraded Saint Knuckle II to Saint Knuckle III | Added Heavy Strike II
+Lynxmon = Added Meteor Fall II
+Magnadramon = Added Dragon Fire
+Magnamon = Replaced Comet Hammer III with Saint Knuckle III
+MagnamonX = Replaced S-Solar Gold Storm with Magna Explosion
+Maildramon = Downgraded Holy Light III to Holy Light II | Upgraded Saint Knuckle II to Saint Knuckle III | Added Heavy Strike II
+Manbomon = Upgraded Ice Archery II to Ice Archery III | Added Balloon Mine, Hydro Water II
+Mantaraymon = Added Ocean Wave II, Ice Archery III
+Myotismon = Downgraded Nightmare III to Nightmare II | Upgraded Hell Crusher I to Hell Crusher II
+OmegamonAlterB = Added Hell Crusher III
+OmegamonAlterS = Added Shining Laser III, Support End
+Opossumon = Added Gale Storm II
+OrangeWarGrowlmon = Removed Examon Digivolution
+Peacockmon = Added Power Energy II
+Pegasusmon = Replaced Razor Wind with with Star Shower | Added Holy Light III
+Ponchomon = Replaced Pummel Whack with Tequila Knuckle | Added Awesome Quake III
+Prairiemon = Replaced Pummel Whack with Sonic Ears, Replaced Destruction Cannon II with Awesome Quake II | Upgraded Comet Hammer II to Comet Hammer III | Added Mach Rush II
+Pteramon = Added Wind Claw III
+Pucchiemon = Added Saint Knuckle II
+Quetzalmon = Replaced Razor Wind with Toltec Wind, Replaced Shining Laser I with Wind II | Added Sonic Void III
+Rhinomon = Downgraded Heavy Strike III to Heavy Strike II | Added Ain Soph Aur, Mach Rush II
+Rinkmon = Added Ice Archery III
+Salamandamon = Added Heat Breath, Mach Rush II
+Seahomon = Replaced Harpoon Torpedo with Prsim Rainbow | Added Holy Light III
+Sepikmon = Added Spirit Boomerange, Crescent Leaf II
+Sheepmon = Added Mach Rush II
+Shurimon = Replaced Pummel Whack with Double Stars, Replaced Comet Hammer II with Crescent Leaf II, Replaced Destruction Cannon II with Wind Claw II | Added Crescent Leaf III
+Slayerdramon = Added Wind Claw III, Attack Charge Field, Guard Break
+Submarimon = Replaced Harpoon Torpedo with Oxygen Torpedo | Added Ocean Wave III
+Suijinmon = Added Ice Archery III
+Thunderbirdmon = Added Spark Wing, Thunder Fall II | Upgraded Nanomachine Break II to Nanomachine Break III
+Togemogumon = Added Ice Archery III
+Tylomon = Upgraded Ocean Wave I to Ocean Wave II | Added Ice Archery III
+  __  __                     
+ |  \/  |                    
+ | \  / | _____   _____  ___ 
+ | |\/| |/ _ \ \ / / _ \/ __|
+ | |  | | (_) \ V /  __/\__ \
+ |_|  |_|\___/ \_/ \___||___/
+
+
+[NEW] Ain Soph Aur = Nullifies any damage received for two turns.
+[NEW] Balloon Mine = 1-4 physical attacks, 50 Water damage to one foe.
+[NEW] Bloody Drain = DEF-penetrating strong Dark attack on one foe. Absorbs 15% of the damage as HP.
+[NEW] Chaos Flare = Magic attack, 190 Fire damage to one foe.
+[NEW] Crazy Crane = Physical attack, 110 Neutral damage to one foe.
+[NEW] Critical Arms = Physical attack, 165 Wind damage to one foe. Tends to critical more often.
+[NEW] Double Stars = 2 physical attacks, 65 Neutral damage to one foe.
+[NEW] Fire Cloud = Magic attack, 80 Fire damage to all foes.
+[NEW] Gold Rush = 1-4 physical attacks, 55 Earth damage to one foe.
+[NEW] Heat Breath = Physical attack, 90 Fire damage to all foes. 20% chance to decrease foes DEF by 10%.
+[NEW] Holy Blaze = INT-penetrating extra strong Light attack on one foe.
+[NEW] Howling Burner = Physical attack, 115 Fire damage to one foe. Cannot move from recoil for one turn.
+[NEW] Howling Fire = Physical attack, 55 Fire damage to one foe.
+[NEW] Jotunheimr Gale = 7 magic attacks, 48 Fire damage to one foe.
+[NEW] Juggernaut Blast = Physical attack, 120 Neutral damage to one foe.
+[NEW] Justice Burst = 1-5 physical attacks, 60 Electric damage to one foe.
+[NEW] Kaus-slugger = Physical attack, 135 Light damage to one foe. 90% Accuracy.
+[NEW] Lightning Fangstorm = INT-penetrating strong Electric attack on all foes.
+[NEW] Magna Explosion = Magic attack, 130 Light damage to all foes. Nullifies any damage received until next turn.
+[NEW] Maltcyclone = Physical attack, 130 Wind damage to all foes.
+[NEW] Mystic Bell = Magic attack, 90 Light damage to one foe. 20% chance to cause Panic for three turns.
+[NEW] Oxygen Torpedo = Physical attack, 115 Water damage to one foe. Always hits.
+[NEW] Popper  = 6 physical attacks, 36 Neutral damage to one foe.
+[NEW] Prism Rainbow = Magic attack, 90 Light damage to one foe. 25% chance to cause Panic.
+[NEW] Puppy Spark = Physical attack, 35 Fire damage to one foe.
+[NEW] Ragnarok Cannon = Magic attack, 225 Neutral damage to one foe.
+[NEW] Ragnarok Howling = Physical attack, 140 Fire damage to all foes.
+[NEW] Ruin Laser = Physical attack, 95 Dark damage to one foe.
+[NEW] Shuttle Scissors = 2 physical attacks, 50 Neutral damage to one foe.
+[NEW] Sonic Ears = 2 physical attacks, 65 Wind damage to one foe.
+[NEW] Spark Wing = Physical attack, 90 Electric damage to all foes. 25% chance to Paralyze foes.
+[NEW] Spirit Boomerang = Physical attack, 90 Plant damage to all foes.
+[NEW] Star Shower = Magic attack, 110 Light damage to one foe.
+[NEW] Statue Bomber = Physical attack, 95 Neutral damage to all foes.
+[NEW] Sweet Honey Straw = Physical attack, 100 Plant damage to one foe. Recovers 10% of damage dealt as HP.
+[NEW] Tequila Knuckle = Physical attack, 85 Neutral damage to one foe. 35% chance to Poison foe.
+[NEW] Thunderblade Ragnarok = Physical attack, 250 Electric damage to one foe. Critical II.
+[NEW] Thunderclap = Physical attack, 105 Electric damage to all foes. 15% chance of reducing foes SPD by 30%.
+[NEW] Toltec Wind = Magic attack, 90 Wind damage to all foes. 20% chance to increase SPD by 10%.
+[NEW] Voltage Blade = DEF-penetrating strong Electric attack on one foe.
+
+
+Moves that 'tend to critical more often' have had a description update. Subsequently, several of those moves have had an update to their critical chance.
+Moves with recoil have had a description update. Subsequently Reckless Tackle I and Reckless Tackle II have been adjusted to 5% recoil.
+
+Please refer to the Battle Effects Information in the FAQ for details on Critical, Recoil and Charge.
+
+
+Albion = Increased Power to 125 from 110
+Berserk Sword = Increased SPCost to 30 from 15
+Calydon Arcus = Increased Power to 66 from 25
+Corona Blaster = Increased SPCost to 25 from 15
+Chrono Paradox = Increased SPCost to 75 from 65
+Corona Knuckle = Increased Power to 30 from 20
+Plasma Shot = Increased SPCost to 50 from 25 | Increased Number of Hits to 4 from 3
+S-Gold Solar Storm = Increased SPCost to 35 from 25 | Increased Power to 90 from 75
+Seven Victorize Maximum = Decreased Power to 45 from 65
+Terrier Tornado = Increased SPCost to 10 from 5 | Increased Power to 40 from 20
+Volt Tackle = Increased Power to 200 from 150
