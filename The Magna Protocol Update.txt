@@ -33,7 +33,6 @@ Chaosdramon = Increased Digivolve Cost to 18 from 16
 ChaosWarGreymon = Type changed from Virus to Vaccine
 ChaosWarGreymonX = Type changed from Virus to Vaccine
 Chuumon = Increased BaseHP to 300 from 260
-Creepymon = Name has been changed to DaemonM
 Cyberdramon = Can now digivolve into Fujinmon!
 Deathmon = Increased Digivolve Cost to 18 from 14
 DeathmonBlack = Increased Digivolve Cost to 18 from 14
