@@ -1,5 +1,4 @@
 import sqlite3
-import Levenshtein
 
 # Connect to the digimon database
 conn = sqlite3.connect('digimon.db')
@@ -9,6 +8,8 @@ c = conn.cursor()
 c.execute("SELECT * FROM digi WHERE Event = 'None' AND Evolutions != 'None'")
 digimon_records = c.fetchall()
 
+discrepancy_found = False  # Flag to track if any spelling discrepancy is found
+
 # Iterate over the digimon records
 for record in digimon_records:
     name = record[1]
@@ -16,8 +17,6 @@ for record in digimon_records:
     
     # Split the evolutions column into individual evolution names
     evolution_names = evolutions.split(',')
-    
-    discrepancy_found = False  # Flag to track if any spelling discrepancy is found
     
     for evolution_name in evolution_names:
         evolution_name = evolution_name.strip()  # Remove leading/trailing whitespace
@@ -29,9 +28,10 @@ for record in digimon_records:
         if not matching_names:
             discrepancy_found = True
             print(f"Spelling issue detected: {name} -> {evolution_name}")
-    
-    if discrepancy_found:
-        print("At least one spelling issue found.")
-    
+
+# Print "no issues found" message if no discrepancies are found
+if not discrepancy_found:
+    print("No spelling issues found.")
+
 # Close the database connection
 conn.close()
