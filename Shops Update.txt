@@ -1,0 +1,71 @@
+  ____  _                     
+ / ___|| |__   ___  _ __  ___ 
+ \___ \| '_ \ / _ \| '_ \/ __|
+  ___) | | | | (_) | |_) \__ \
+ |____/|_| |_|\___/| .__/|___/
+                   |_|        
+
+                            
+
+[Quest] Crest Level +1 - Price Increased to 135 from 100
+[Vote] Crest Level +1 - Price Increased to 100 from 75
+[Quest] Black Digitron - Price Increased to 500 from 400
+[Vote] Stat Reset - Price Decreased to 110 from 125
+[Vote] Personality Change - Price Decreased to 110 from 125
+[Vote] HP Stat Reset - Price Decreased to 185 from 200
+[Vote] SP Stat Reset - Price Decreased to 185 from 200
+[Vote] ATK Stat Reset - Price Decreased to 185 from 200
+[Vote] DEF Stat Reset - Price Decreased to 185 from 200
+[Vote] INT Stat Reset - Price Decreased to 185 from 200
+[Vote] SPD Stat Reset - Price Decreased to 185 from 200
+[Vote] Personality Change Durable - Price Decreased to 185 from 200
+[Vote] Personality Change Lively - Price Decreased to 185 from 200
+[Vote] Personality Change Fighter - Price Decreased to 185 from 200
+[Vote] Personality Change Defender - Price Decreased to 185 from 200
+[Vote] Personality Change Brainy - Price Decreased to 185 from 200
+
+
+
+[NEW] Agumon Data x10
+[NEW] Gabumon Data x10
+[NEW] Tentomon Data x10
+[NEW] Gomamon Data x10
+[NEW] Biyomon Data x10
+[NEW] Palmon Data x10
+[NEW] Patamon Data x10
+[NEW] Gatomon Data x10
+[NEW] Angry Alarm (Quest Only)
+[NEW] ChronoCore (Quest Only)
+[NEW] Dark Heart (Quest Only)
+[NEW] Dark Soul (Vote Only)
+[NEW] Fusion Crest (Vote Only)
+[NEW] Paradox Data (Vote Only)
+[NEW] Whisper Program  (Vote Only)
+[NEW] HP Spray x5
+[NEW] SP Spray x5
+[NEW] Veemon Data x10
+[NEW] Hawkmon Data x10
+[NEW] Armadillo Data x10
+[NEW] Wormmon Data x10
+[NEW] Terriermon Data x10
+[NEW] Renamon Data x10
+[NEW] Gammamon Data x10
+[NEW] Angoramon Data x10
+[NEW] Jellymon Data x10
+[NEW] BlackMetalGarurumon Data x10
+[NEW] Weak X-Antibody x1 (Quest Only)
+[NEW] Normal X-Antibody x1 (Vote Only)
+[NEW] Recovery Capsule x5
+[NEW] Recovery Capsule x10
+[NEW] Recovery Spray x5
+[NEW] DemiMeramon Data x10 (Quest Only)
+[NEW] Betamon Data x10 (Quest Only)
+[NEW] Veedramon Data x10 (Quest Only)
+[NEW] SkullScorpiomon Data x10 (Vote Only)
+[NEW] Dynasmon Data x10 (Vote Only)
+
+
+
+
+
+
