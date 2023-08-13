@@ -1,0 +1,11 @@
+[NEW] ShoutmonX7
+
+ShoutmonX7 can digivolve into ShoutmonX7SM with Peace Soul
+
+LucemonX = Decreased BaseINT from 210 to 181, Decreased BaseSPD to 108 from 115, Decreased BaseATK to 108 from 118, Decreased BaseDEF to 85 from 96, Decreased BaseHP to 1100 from 1250
+ShoutmonX7SM = Replaced Seven Victorize Maximum with Final Xros Blade
+
+[NEW] Fusion Flamethrower = Physical attack, 130 Fire damage to one foe.
+[NEW] Final Xros Blade = Physical attack, 125 Light damage to one foe. 10% chance of instantly killing.
+
+Dead or Alive = Increased SPCost to 40 from 25, Decreased Power to 90 from 130
