@@ -57,7 +57,7 @@ See the [projects tab](https://github.com/OniSensei/DigiDestined-DB-Project/proj
 <!-- CONTACT -->
 ## Contact
 
-OniSensei - [OniSensei#0420](https://discord.com/users/542094478513668176/)
+OniGremlin - [OniGremlin](https://discord.com/users/542094478513668176/)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
